@@ -13,8 +13,7 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
   - Missing value check and imputation using Business Logic.
   - Cahnging data types of the variables.
 - Exploratory Data Analysis:
-  - Performed AutoEDA using SweetViz to identify important variable.
-  - Performed Univariate and Bi-variate analysis on identified variables.
+    - Performed Univariate and Bi-variate analysis on identified variables.
   = Correlation heatmap
 - Data Preparation for model building:
   - Performed log transformation of target variable.
